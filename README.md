@@ -4,7 +4,7 @@
 
 :space_invader: My name is Miguel Ricaño, a <strong>full-time</strong> Full Stack Developer student with business background:space_invader:
 
-:crown: Anything is possible in my universe, come and joy me in this ride:crown:
+:crown: Anything is possible in my universe, come and join me in this ride:crown:
 
 If you want any help in any project, software:computer: or business related:chart_with_upwards_trend:, don't hesitate to reach me, 24/7 available :clock7:
 
