@@ -2,7 +2,7 @@
 
 # Welcome to my Crib
 
-:space_invader: My name is Miguel Ricaño, a <strong>full-time</strong> Full Stack Developer student with business background:space_invader:
+:space_invader: My name is Miguel Ricaño, a <strong>full-time</strong> Full Stack Developer with business background:space_invader:
 
 :crown: Anything is possible in my universe, come and join me in this ride:crown:
 
