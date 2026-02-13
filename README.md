@@ -15,7 +15,7 @@ My work usually sits at the intersection of product, infrastructure, and integra
 - Performance, scalability, and technical debt reduction
 
 ### Tech I use often
-Ruby on Rails, Node.js, TypeScript, React, PostgreSQL, GraphQL, REST APIs, background jobs, LLM integrations
+Ruby on Rails, Node.js, Go, Gin, TypeScript, React, PostgreSQL, GraphQL, REST APIs, background jobs, LLM integrations
 
 If you’re building complex products or platforms and want to collaborate, feel free to reach out.
 
